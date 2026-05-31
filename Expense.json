@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "localDate": "2026-06-01",
+    "description": "Gasoline",
+    "amount": 1.25
+  },
+  {
+    "id": 2,
+    "localDate": "2026-06-01",
+    "description": "Passion Soda",
+    "amount": 2.5
+  },
+  {
+    "id": 3,
+    "localDate": "2026-06-01",
+    "description": "Noodle",
+    "amount": 2.75
+  },
+  {
+    "id": 5,
+    "localDate": "2026-06-01",
+    "description": "Water",
+    "amount": 0.5
+  },
+  {
+    "id": 6,
+    "localDate": "2026-06-01",
+    "description": "Pineapple",
+    "amount": 0.97
+  },
+  {
+    "id": 7,
+    "localDate": "2026-06-01",
+    "description": "Fish",
+    "amount": 3.2
+  },
+  {
+    "id": 8,
+    "localDate": "2026-06-01",
+    "description": "Strawberry",
+    "amount": 3.0
+  },
+  {
+    "id": 9,
+    "localDate": "2026-06-01",
+    "description": "HoneyTea",
+    "amount": 3.8
+  },
+  {
+    "id": 10,
+    "localDate": "2026-06-01",
+    "description": "Wheels",
+    "amount": 20.0
+  },
+  {
+    "id": 11,
+    "localDate": "2026-06-01",
+    "description": "Dog",
+    "amount": 88.0
+  }
+]
